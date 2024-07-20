@@ -11,7 +11,6 @@ This project involves the analysis of a dataset containing measurements related 
   - [Time Series Analysis](#time-series-analysis)
   - [Anomaly Detection](#anomaly-detection)
 - [Insights](#insights)
-- [How to Run the Analysis](#how-to-run-the-analysis)
 
 ## Project Overview
 
