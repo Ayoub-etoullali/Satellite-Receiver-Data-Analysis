@@ -53,31 +53,5 @@ Anomaly detection focuses on identifying outliers or unusual patterns in the dat
 - **Buffer Levels:** Consistent buffer levels are crucial for smooth audio playback. Variability might indicate buffering issues.
 - **Transport Stream Errors:** High error rates can affect audio quality and indicate potential issues in data transmission.
 
-## How to Run the Analysis
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/satellite-receiver-analysis.git
-   cd satellite-receiver-analysis
-   ```
-
-2. **Install Dependencies:**
-   Ensure you have Python installed. Then, install the required libraries:
-   ```bash
-   pip install pandas matplotlib scipy
-   ```
-
-3. **Run the Analysis:**
-   Open the provided Jupyter notebook or Python scripts to run the analysis:
-   ```bash
-   jupyter notebook analysis.ipynb
-   # or
-   python analysis.py
-   ```
-
-4. **View Results:**
-   The results of the analysis will be displayed in the notebook or saved as output files, depending on the script.
-
-## Contact
-
-For any questions or feedback, please contact [Your Name](mailto:ayoub.etoullali2002@gmail.com).
+<kbd>Enjoy Code</kbd> 👨‍💻
+[My portfolio](https://ayoub-etoullali.netlify.app/)
